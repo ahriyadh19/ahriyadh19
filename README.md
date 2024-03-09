@@ -1,4 +1,4 @@
-[![MasterHead](https://shorturl.at/hitKS)](https://ahriyadh19.io)
+
 <h1 align="center">Hi 👋, I'm AHMED RIYADH MOHAMMED AHMED</h1>
 <h3 align="center">A dedicated developer hailing from Yemen 🇾🇪 </h3>
 <img align="right" alt="Code" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
