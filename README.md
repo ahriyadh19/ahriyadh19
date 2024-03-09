@@ -2,7 +2,6 @@
 <h3 align="center">A dedicated developer hailing from Yemen 🇾🇪 </h3>
 <a href="https://wakatime.com/@2cb05cd4-a478-4b5e-8bea-98c580923e67"><img src="https://wakatime.com/badge/user/2cb05cd4-a478-4b5e-8bea-98c580923e67.svg" alt="Total time coded since Jul 10 2022" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahriyadh19&label=Profile%20views&color=0e75b6&style=flat" alt="ahriyadh19" /></p>
-<p align="left"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ahriyadh19"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahriyadh19" alt="ahriyadh19" /></a> </p>
 
