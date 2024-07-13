@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahriyadh19" alt="ahriyadh19" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://ahriyadh19.github.io/Portfolio/](https://ahriyadh19.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/ahriyadh19](https://github.com/ahriyadh19)
 
 - 📫 How to reach me **ahriyadh19@gmail.com**
 
