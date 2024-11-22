@@ -52,8 +52,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/><br>TypeScript</a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="Adobe XD"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/><br>Adobe XD</a> 
   <a href="https://supabase.com/" target="_blank" rel="noreferrer" title="Supabase"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="50" height="50"/><br>Supabase</a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/><br>Next.js</a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/><br>Next.js</a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahriyadh19&show_icons=true&locale=en&layout=compact" alt="ahriyadh19" /></p>
 
