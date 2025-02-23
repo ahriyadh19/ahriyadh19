@@ -1,56 +1,91 @@
-<h1 align="center">Hi 👋, I'm Ahmed Riyadh Mohammed Ahmed</h1>
-<h3 align="center">A passionate developer building solutions from Yemen</h3>
-<p align="center">Tracking my coding journey since July 2022: <a href="https://wakatime.com/@2cb05cd4-a478-4b5e-8bea-98c580923e67"><img src="https://wakatime.com/badge/user/2cb05cd4-a478-4b5e-8bea-98c580923e67.svg" alt="Total time coded" /></a></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahriyadh19&label=Profile%20views&color=0e75b6&style=flat" alt="ahriyadh19" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahriyadh19&theme=onedark&margin-w=15" alt="ahriyadh19" /></a> </p>
-<br>
-
-- 👨‍💻 Check out my projects on [my GitHub repos](https://github.com/ahriyadh19?tab=repositories)  
-- 📫 Reach me at <a href="mailto:ahriyadh19@gmail.com">ahriyadh19@gmail.com</a>  
-- 💡 I’m fueled by solving tough problems and a good cup of coffee  
-- ⚡ Fun fact: I’m funny—ask me about the time I fixed a bug with a pun!
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/ahriyadh19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter @ahriyadh19" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ahmed-riyadh-19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/ahriyadh19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/ahriyadh19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <strong>Frontend:</strong> 
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <br>
-  <strong>Backend:</strong> 
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://www.svgrepo.com/show/353724/express.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/></a>
-  <br>
-  <strong>Databases:</strong> 
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <br>
-  <strong>Tools:</strong> 
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
+<h1 align="center">🚀 Ahmed Riyadh Mohammed Ahmed</h1>
+<h3 align="center">Full-Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahriyadh19&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ahriyadh19" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahriyadh19&show_icons=true&locale=en&theme=dracula" alt="ahriyadh19" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahriyadh19&theme=dracula" alt="ahriyadh19" />
+  <a href="https://wakatime.com/@2cb05cd4-a478-4b5e-8bea-98c580923e67">
+    <img src="https://wakatime.com/badge/user/2cb05cd4-a478-4b5e-8bea-98c580923e67.svg" alt="Total time coded">
+  </a>
+  <a href="https://ko-fi.com/ahriyadh19">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=ko-fi&logoColor=black">
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=ahriyadh19&label=Profile%20views&color=0e75b6&style=flat" alt="ahriyadh19" /> 
 </p>
 
-<p align="center">Let’s build something awesome—drop me a line!</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Turning+%3Ccoffee+%2F%3E+into+%3Ccode+%2F%3E;Full-Stack+Alchemist;Open-Source+Advocate;Problem+Solving+Ninja" alt="Typing SVG">
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![ObjectBox](https://img.shields.io/badge/-ObjectBox-FF6C37?logo=objectbox&logoColor=white&style=flat)
+
+#### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahriyadh19&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahriyadh19&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img src="https://streak-stats.demolab.com/?user=ahriyadh19&theme=vision-friendly-dark" height="180em" />
+  
+</div>
+
+---
+
+### 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR in [project-x](https://github.com/ahriyadh19/project-x) - 2 days ago
+2. 🚀 Released v1.2.0 of [flutter-app](https://github.com/ahriyadh19/flutter-app) - 5 days ago
+3. 🛠 Fixed critical bug in [api-service](https://github.com/ahriyadh19/api-service) - 1 week ago
+<!--END_SECTION:activity-->
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-riyadh-19">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/ahriyadh19">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:ahriyadh19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahriyadh19&theme=onedark&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies">
+</p>
+
+<p align="center">
+  <em>"First, solve the problem. Then, write the code." - John Johnson</em>
+</p>
