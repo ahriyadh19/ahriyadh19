@@ -1,12 +1,11 @@
 <h1 align="center">🚀 Ahmed Riyadh Mohammed Ahmed</h1>
 <h3 align="center">Full-Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
-
+<p align="center">
+  <em>"First, solve the problem. Then, write the code." - John Johnson</em>
+</p>
 <p align="center">
   <a href="https://wakatime.com/@2cb05cd4-a478-4b5e-8bea-98c580923e67">
     <img src="https://wakatime.com/badge/user/2cb05cd4-a478-4b5e-8bea-98c580923e67.svg" alt="Total time coded">
-  </a>
-  <a href="https://ko-fi.com/ahriyadh19">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=ko-fi&logoColor=black">
   </a>
     <img src="https://komarev.com/ghpvc/?username=ahriyadh19&label=Profile%20views&color=0e75b6&style=flat" alt="ahriyadh19" /> 
 </p>
@@ -56,16 +55,6 @@
 
 ---
 
-### 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in [project-x](https://github.com/ahriyadh19/project-x) - 2 days ago
-2. 🚀 Released v1.2.0 of [flutter-app](https://github.com/ahriyadh19/flutter-app) - 5 days ago
-3. 🛠 Fixed critical bug in [api-service](https://github.com/ahriyadh19/api-service) - 1 week ago
-<!--END_SECTION:activity-->
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
@@ -82,10 +71,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahriyadh19&theme=onedark&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies">
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahriyadh19&theme=onedark&margin-w=15" alt="ahriyadh19" /></a> </p>
 
-<p align="center">
-  <em>"First, solve the problem. Then, write the code." - John Johnson</em>
-</p>
+<p align="center">Let’s build something awesome—drop me a line!</p>
